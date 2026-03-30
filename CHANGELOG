@@ -1,6 +1,9 @@
 TODO:
 - Add html2pdf utility function
 ######################################################
+v0.3.24 - Add authz package 
+    x Commit: 2026-03-30 15:58 
+    x Add authz package
 v0.3.23 - Add conk package 
     x Commit: 2026-03-30 15:55
     x Add conk package
