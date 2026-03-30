@@ -1,6 +1,9 @@
 TODO:
 - Add html2pdf utility function
 ######################################################
+v0.3.26 - Add task package 
+    x Commit: 2026-03-30 16:08
+    x Add task package
 v0.3.25 - Add cache package 
     x Commit: 2026-03-30 16:00 
     x Add cache package
