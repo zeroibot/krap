@@ -1,6 +1,9 @@
 TODO:
 - Add html2pdf utility function
 ######################################################
+v0.3.22 - Add authn package 
+    x Commit: 2026-03-30 15:53
+    x Add authn package
 v0.3.21 - Add audit package 
     x Commit: 2026-03-30 15:45
     x Add audit package
