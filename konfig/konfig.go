@@ -23,7 +23,12 @@ const (
 func Initialize() error {
 	errs := make([]error, 0)
 
+	appFeatures = make(dict.BoolMap)
+	scopedFeatures = make(map[string]dict.StringListMap)
+
 	KVSchema = ze.AddSchema(&KV{}, "config_app", errs)
+	Features = ze.AddSchema(&Feature{}, "config_features", errs)
+	ScopedFeatures = ze.AddSharedSchema(&ScopedFeature{}, errs)
 
 	if len(errs) > 0 {
 		return fail.FromErrors("konfig.Initialize", errs)
