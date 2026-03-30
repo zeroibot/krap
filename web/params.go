@@ -2,7 +2,7 @@ package web
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/roidaradal/fn/fail"
+	"github.com/zeroibot/fn/fail"
 )
 
 // Web request origin: BrowserInfo and IP address

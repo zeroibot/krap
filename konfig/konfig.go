@@ -4,14 +4,14 @@ package konfig
 import (
 	"strings"
 
-	"github.com/roidaradal/fn/dict"
-	"github.com/roidaradal/fn/dyn"
-	"github.com/roidaradal/fn/fail"
-	"github.com/roidaradal/fn/lang"
-	"github.com/roidaradal/fn/number"
-	"github.com/roidaradal/fn/str"
-	"github.com/roidaradal/rdb"
-	"github.com/roidaradal/rdb/ze"
+	"github.com/zeroibot/fn/dict"
+	"github.com/zeroibot/fn/dyn"
+	"github.com/zeroibot/fn/fail"
+	"github.com/zeroibot/fn/lang"
+	"github.com/zeroibot/fn/number"
+	"github.com/zeroibot/fn/str"
+	"github.com/zeroibot/rdb"
+	"github.com/zeroibot/rdb/ze"
 )
 
 const (

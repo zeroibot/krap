@@ -1,17 +1,17 @@
-module github.com/roidaradal/krap
+module github.com/zeroibot/krap
 
 go 1.25.0
 
 require (
 	github.com/gin-contrib/cors v1.7.6
 	github.com/gin-gonic/gin v1.11.0
-	github.com/roidaradal/fn v0.5.68
-	github.com/roidaradal/rdb v0.14.12
+	github.com/zeroibot/fn v0.6.0
+	github.com/zeroibot/rdb v0.15.0
 	golang.org/x/term v0.40.0
 )
 
 require (
-	filippo.io/edwards25519 v1.1.0 // indirect
+	filippo.io/edwards25519 v1.2.0 // indirect
 	github.com/bytedance/gopkg v0.1.3 // indirect
 	github.com/bytedance/sonic v1.15.0 // indirect
 	github.com/bytedance/sonic/loader v0.5.0 // indirect

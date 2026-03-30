@@ -6,9 +6,9 @@ import (
 	"strings"
 
 	"github.com/gin-gonic/gin"
-	"github.com/roidaradal/fn/fail"
-	"github.com/roidaradal/fn/lang"
-	"github.com/roidaradal/rdb/ze"
+	"github.com/zeroibot/fn/fail"
+	"github.com/zeroibot/fn/lang"
+	"github.com/zeroibot/rdb/ze"
 )
 
 const okMessage = "OK"

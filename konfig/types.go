@@ -1,8 +1,8 @@
 package konfig
 
 import (
-	"github.com/roidaradal/fn/dict"
-	"github.com/roidaradal/rdb/ze"
+	"github.com/zeroibot/fn/dict"
+	"github.com/zeroibot/rdb/ze"
 )
 
 var (

@@ -7,8 +7,8 @@ import (
 
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
-	"github.com/roidaradal/fn/io"
-	"github.com/roidaradal/krap/sys"
+	"github.com/zeroibot/fn/io"
+	"github.com/zeroibot/krap/sys"
 )
 
 type Config struct {

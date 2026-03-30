@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/roidaradal/fn/clock"
-	"github.com/roidaradal/fn/dict"
-	"github.com/roidaradal/fn/io"
+	"github.com/zeroibot/fn/clock"
+	"github.com/zeroibot/fn/dict"
+	"github.com/zeroibot/fn/io"
 )
 
 /*

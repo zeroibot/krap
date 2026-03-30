@@ -3,9 +3,9 @@ package sys
 import (
 	"fmt"
 
-	"github.com/roidaradal/fn/ds"
-	"github.com/roidaradal/fn/str"
-	"github.com/roidaradal/rdb/ze"
+	"github.com/zeroibot/fn/ds"
+	"github.com/zeroibot/fn/str"
+	"github.com/zeroibot/rdb/ze"
 )
 
 // Prints request logs and error; prints OK if no error

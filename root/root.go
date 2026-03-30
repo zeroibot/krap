@@ -10,11 +10,11 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/roidaradal/fn/dict"
-	"github.com/roidaradal/fn/ds"
-	"github.com/roidaradal/fn/fail"
-	"github.com/roidaradal/fn/lang"
-	"github.com/roidaradal/fn/str"
+	"github.com/zeroibot/fn/dict"
+	"github.com/zeroibot/fn/ds"
+	"github.com/zeroibot/fn/fail"
+	"github.com/zeroibot/fn/lang"
+	"github.com/zeroibot/fn/str"
 	"golang.org/x/term"
 )
 
