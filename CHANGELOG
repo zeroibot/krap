@@ -1,6 +1,9 @@
 TODO:
 - Add html2pdf utility function
 ######################################################
+v0.3.20 - Add krap functions 
+    x Commit: 2026-03-30 15:43
+    x Add krap functions
 v0.3.19 - Rename Package 
     x Commit: 2026-03-30 15:28
     x Rename to zeroibot/krap
